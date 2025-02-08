@@ -12,3 +12,18 @@ git remote add origin <URL_DO_REPOSITORIO>.git
 
 # passo 5
 git push -u origin  main
+
+
+
+# como fazer os proximos commits no repositorio do github #
+
+# passo 1
+git add .
+
+# passo 2
+git commit -m "nome do commit"
+
+# passo 3
+git push origin main
+
+
